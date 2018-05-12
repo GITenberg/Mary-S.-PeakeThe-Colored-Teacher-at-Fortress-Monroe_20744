@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '9502'
     url: http://www.gutenberg.org/2009/agents/9502
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20744#Mary-S.-PeakeThe-Colored-Teacher-at-Fortress-Monroe
 gutenberg_issued: '2007-03-04'
 gutenberg_type: Text
 identifiers:
