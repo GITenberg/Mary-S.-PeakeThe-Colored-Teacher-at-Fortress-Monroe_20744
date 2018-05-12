@@ -1,0 +1,27 @@
+_repo: Mary-S.-PeakeThe-Colored-Teacher-at-Fortress-Monroe_20744
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lockwood, Lewis C. (Lewis Conger)
+    birthdate: 1815
+    deathdate: 1904
+    gutenberg_agent_id: '9502'
+    url: http://www.gutenberg.org/2009/agents/9502
+description: ''
+gutenberg_issued: '2007-03-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20744'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E151'
+- !lcsh 'Peake, Mary S., 1823-1862'
+- !lcsh 'African American women teachers -- Biography'
+title: 'Mary S. Peake: The Colored Teacher at Fortress Monroe'
+url: http://www.gutenberg.org/ebooks/20744
